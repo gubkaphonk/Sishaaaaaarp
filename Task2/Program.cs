@@ -9,21 +9,7 @@ namespace Task2
     internal class Program
     {
         static void Main(string[] args)
-        {
-            /* double angleInDegrees = 15;
-            double dngleInRadians = angleInDegrees*Math.PI/100;
-            double sin = Math.Sin(angle);
-            double cos Math.Cos(angle);
-
-            Console.WriteLine("sin(15°) = " + Math.Round(sin, 3));
-
-            Console.WriteLine("cos(15°) = " + Math.Round(cos, 3));
-
-            Console.WriteLine();
-            Console.WriteLine("Введите значение угла в градусах.");
-            angleInDegrees=double.Parse(Console.ReadLine());
-
-            Console.ReadKey();*/
+        { 
             Console.WriteLine("Введите число 1.");
             double digit1 = 0;
             digit1=double.Parse(Console.ReadLine());
