@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Свинопёс\source\repos\Сишарпэээ\Сишарпэээ\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Свинопёс\source\repos\Сишарпэээ\Сишарпэээ\.editorconfig" />
+  </ItemGroup>
+
 </Project>
